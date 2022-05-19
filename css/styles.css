@@ -1,0 +1,140 @@
+body{
+  font-family: 'Roboto Slab', serif;
+}
+
+#title{
+  background-color: #A6CF98;
+  padding-bottom: 8%;
+}
+
+.hello{
+font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #000000;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Source Sans Pro', sans-serif, bold;
+    color: #000000;
+}
+
+.h1i{
+ font-family: 'Licorice', cursive;
+ font-size: 94px;
+}
+
+
+.h3-cta {
+  color: #fff;
+  font-size: 55px;
+  line-height: 2rem;
+}
+
+p{
+  color: #8f8f8f;
+  font-style: oblique;
+}
+
+.col{
+  padding: 5% 9%
+}
+
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+}
+
+.btn-download{
+  margin:  5% 3% 5% 0;
+
+}
+
+.imgs{
+  width: 70%;
+    padding: 5%;
+
+    position: absolute;
+ left: 40%
+
+}
+.fas1{
+  color: #146356;
+  margin:1rem;
+}
+.fas1:hover{
+  color:#040303;
+}
+
+#features{
+  padding: 7% 13%;
+}
+.description{
+  text-align: center;
+  padding: 5%;
+}
+
+#testimonials{
+
+  background-color: #519259;
+  text-align: center;
+  color: #fff;
+}
+
+.testimonial-text{
+  font-size: 3.85rem;
+font-family: 'Licorice', cursive;
+  line-height: 2;
+}
+
+.testimonial-image{
+  width: 13%;
+  border-radius: 99%;
+  margin-top: 20px;
+}
+.testimonial-imag{
+  width: 13%;
+  border-radius: 99%;
+  margin-top: 20px;
+}
+
+
+#press{
+  text-align: center;
+  background-color: #519259;
+  padding-bottom: 2%;
+}
+.press-logo{
+  width: 15%;
+  margin:20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 13%;
+
+}
+
+#pricing{
+padding: 120px;
+text-align: center;;
+}
+.price-col{
+  padding: 3% 10%;
+}
+
+#cta{
+  background-color: #519259;
+    padding: 10%;
+    text-align: center;
+
+}
+
+#footer{
+  padding: 7%;
+  text-align: center;
+
+}
+.icons-footer {
+  margin: 5px 7px;
+}
